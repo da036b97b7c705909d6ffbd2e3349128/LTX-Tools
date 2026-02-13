@@ -37,7 +37,7 @@ curl -LJO $(curl -s [https://api.github.com/repos/da036b97b7c705909d6ffbd2e33491
 ## Requirements
 |Feature |Minimum                  |Recommended            |
 |--------|-------------------------|-----------------------|
-|OS      |Windows 10 / Ubuntu 20.04|Windows 11 / Arch Linux|
+|OS      |Windows 10 / Any Linux Distro |Windows 11 / Any Linux Distro|
 |Memory  |16 GB RAM                |32 GB RAM              |
 |Graphics|8 GB VRAM (NVIDIA)       |12 GB+ VRAM (NVIDIA)   |
 |Storage |120 GB available space     |120 GB SSD space        |
