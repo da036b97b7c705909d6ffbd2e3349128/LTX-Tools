@@ -5,10 +5,8 @@
 
 LTX Tools is a command-line software meant to interact with LTX2 Video-Model.
 
-> [!CAUTION]
-> This tool is still in development, apologies in advance for any bugs in pre-release build.
-
 > [!WARNING]
+> This tool is still in development, apologies in advance for any bugs in pre-release build
 > This tool requires at minimum 8GB Vram in order to fully utilize. Refer to [minimum specs](#requirements).
 
 ---
