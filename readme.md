@@ -1,9 +1,5 @@
 # LTX Tools                                                                       
-
 LTX Tools is a command-line software meant to interact with LTX2 Video-Model locally.
-
-**Author:** Mu_rpy  
-**Platforms:** Windows, MacOS, Linux.
 
 > [!WARNING]
 > This tool is still in development, apologies in advance for any bugs in pre-release build
