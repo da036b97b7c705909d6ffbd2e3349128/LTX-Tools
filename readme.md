@@ -1,23 +1,21 @@
-```
- █████       ███████████ █████ █████    ███████████                   ████         
-▒▒███       ▒█▒▒▒███▒▒▒█▒▒███ ▒▒███    ▒█▒▒▒███▒▒▒█                  ▒▒███         
- ▒███       ▒   ▒███  ▒  ▒▒███ ███     ▒   ▒███  ▒   ██████   ██████  ▒███   █████ 
- ▒███           ▒███      ▒▒█████          ▒███     ███▒▒███ ███▒▒███ ▒███  ███▒▒  
- ▒███           ▒███       ███▒███         ▒███    ▒███ ▒███▒███ ▒███ ▒███ ▒▒█████ 
- ▒███      █    ▒███      ███ ▒▒███        ▒███    ▒███ ▒███▒███ ▒███ ▒███  ▒▒▒▒███
- ███████████    █████    █████ █████       █████   ▒▒██████ ▒▒██████  █████ ██████ 
-▒▒▒▒▒▒▒▒▒▒▒    ▒▒▒▒▒    ▒▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒     ▒▒▒▒▒▒   ▒▒▒▒▒▒  ▒▒▒▒▒ ▒▒▒▒▒▒  
-                                                                                   
-```                                                                              
-                                                                                   
+# LTX Tools                                                                       
+
 **Author:** Mu_rpy  
 **Platforms:** Windows, MacOS, Linux.
-
-LTX Tools is a command-line software meant to interact with LTX2 Video-Model.
 
 > [!WARNING]
 > This tool is still in development, apologies in advance for any bugs in pre-release build
 > This tool requires at minimum 8GB Vram in order to fully utilize. Refer to [minimum specs](#requirements).
+
+LTX Tools is a command-line software meant to interact with LTX2 Video-Model.
+
+&nbsp;
+
+## Features
+
+- AI Video Filters: Apply specialized filters to LTX projects.
+- Cross-Platform: Full support for Windows and major Unix-based distributions.
+- Yeah thats all for now :P
 
 &nbsp;
 
@@ -31,14 +29,6 @@ Run the following command in your terminal:
 ```bash
 curl -LJO $(curl -s [https://api.github.com/repos/da036b97b7c705909d6ffbd2e3349128/LTX-Tools/releases/latest](https://api.github.com/repos/foras/higgsfield/releases/latest) | grep -o "https://.*linux.zip") && unzip linux.zip && chmod +x start.sh && ./start.sh
 ```
-
-&nbsp;
-
-## Features
-
-- AI Filtering: Apply specialized filters to LTX projects.
-- Cross-Platform: Full support for Windows and major Unix-based distributions.
-- More comming soon 👍
 
 &nbsp;
 
